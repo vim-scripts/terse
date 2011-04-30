@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3570
+
+A terse color theme. No candy colors, no wild contrasts, no green on black.
+N.B! The cterm version is woefully underdeveloped in this version. Don't use
+it.
+
+Also, could be found on https://github.com/wolfsund/terse
